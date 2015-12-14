@@ -14,4 +14,12 @@ You may want to change around the code to suit your needs!
 <label>R U Human?</label>
 ```
 
+Docs:
+
+```
+ruhuman.human true if you are a human false if you are a bot.
+
+ruhuman.checked true if checked false if not.
+```
+
 That's it!
