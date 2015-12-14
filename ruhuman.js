@@ -7,5 +7,5 @@ document.getElementById ("ruhuman").addEventListener("click", function(e){
         ruhuman.human = false;
       }
     }
-    alert(ruhuman.human);
+    
   });
