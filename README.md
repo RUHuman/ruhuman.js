@@ -1,6 +1,6 @@
 #What is ruhuman.js?
 
-A Human Validation Checker to keep out the bots. This is a lightweight and simple solution.
+A Human Validation Checker to keep out the bots. This is a fast, lightweight and simple solution.
 
 #How to use?
 
